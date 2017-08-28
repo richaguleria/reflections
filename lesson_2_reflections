@@ -15,7 +15,11 @@ Add files that requires single logical changes in staging area and then doing co
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches keeps the original project seperated from modified version of project
+
 How do the diagrams help you visualize the branch structure?
+
+diagrams tell the commit from which branches are made and in each branch which is the latest commit
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
